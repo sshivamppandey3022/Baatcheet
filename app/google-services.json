@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "927849622362",
+    "project_id": "baatcheetapk",
+    "storage_bucket": "baatcheetapk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927849622362:android:c0fde2a0e0b2a8a3bc2163",
+        "android_client_info": {
+          "package_name": "com.shivam.baatcheet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927849622362-ofi4sf20o19idj4r06t30pv5ajotqs3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj4u_xRDd1-OCbq8Avwbvv7Zj32e1WV3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927849622362-ofi4sf20o19idj4r06t30pv5ajotqs3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
