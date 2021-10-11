@@ -166,4 +166,3 @@ public class Message2Adapter extends RecyclerView.Adapter{
         }
     }
 }
-//2:18:31 resumed
